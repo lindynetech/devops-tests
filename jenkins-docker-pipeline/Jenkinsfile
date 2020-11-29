@@ -1,4 +1,4 @@
-node('jenkins-agent') {
+node('x201') {
     def app
 
     stage('Clone repository') {
