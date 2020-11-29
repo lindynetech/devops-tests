@@ -1,4 +1,4 @@
-node {
+node('spin7-u2004-jenkins-slave') {
     def app
 
     stage('Clone repository') {
